@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+html {
+    float: left;
+    height: 100%;
+    width: 100%;
+}
+.body_cntn {
+    height: 100%;
+    background-color: #eef1f6;
+}
+.cloud_cntn {
+    height: 50%;
+    background-image: linear-gradient(#023B96, #022357);
+}
+.non_cloud_cntn {
+    height: 50%;
+}
+.full-hgt {
+    height: 100%;
+}
+.aside_cntn {
+    height: 100%;
+    background-image: linear-gradient(#0A69DA, #0856C8, #0231A5);
+}
+.premium_logo {
+    background-image: linear-gradient(to right, #FF4369, #D10015);
+}
+.ft-fmy {
+    font-family: 'Open Sans', sans-serif;
+}
+.ft-sz-11 {
+    font-size: 11px;
+}
+.ft-sz-12 {
+    font-size: 12px;
+}
+.ft-sz-14 {
+    font-size: 14px;
+}
+.ft-sz-18 {
+    font-size: 18px;
+}
+.flight-logo {
+    transform: translate(-60%, 60%);
+}
+.bottom-cntn {
+    background: linear-gradient(267.11deg, #FF7B71 9.04%, #FF4A3C 93.1%);
+}
+.book-btn-cntn {
+    background-color: #FF9189;
+}
