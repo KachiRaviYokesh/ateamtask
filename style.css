@@ -64,6 +64,8 @@ html {
 .flex-unset {
     flex: unset;
 }
-.scroll-part::-webkit-scrollbar {
-    width: 0px;
+@media (max-width: 576px) {
+    .scroll-part::-webkit-scrollbar {
+        width: 0px;
+    }
 }
